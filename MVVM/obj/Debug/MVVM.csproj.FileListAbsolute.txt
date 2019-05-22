@@ -1,0 +1,16 @@
+F:\Projects\Visual Studio 2019\MVVM\MVVM\bin\Debug\MVVM.exe.config
+F:\Projects\Visual Studio 2019\MVVM\MVVM\bin\Debug\MVVM.exe
+F:\Projects\Visual Studio 2019\MVVM\MVVM\bin\Debug\MVVM.pdb
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\View\MainWindow.g.cs
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\App.g.cs
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\GeneratedInternalTypeHelper.g.cs
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\View\MainWindow.baml
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.g.resources
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.exe
+F:\Projects\Visual Studio 2019\MVVM\MVVM\obj\Debug\MVVM.pdb
